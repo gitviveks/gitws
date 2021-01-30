@@ -1,3 +1,2 @@
 first line
-added second
-third change
+i am 2
